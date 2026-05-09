@@ -14,7 +14,7 @@ and instead of a database file, the items are saved in a browser's local storage
 
 As a result, the project had to deviate somewhat from my original version of an online site with a collection of movies that *multiple* users could leave reviews for, and instead is simply a local collection of personal movie reviews. That said, I am still quite proud of how it's turned out!
 ## Site Access / Files Description
-- The site can be visited at https://aourbanek.github.io/ on any common browser.
+- ~~The site can be visited at aourbanek github io on any common browser.~~
 - index.html contains the main content displayed on the page.
   - script.js adds the dynamic elements/is the page's backend.
   - styles.css is, of course, the page's styling.
