@@ -1,4 +1,3 @@
-# aourbanek.github.io
 ## "aourbanekMDB"
 This is the web page I've developed for the final project in Bradley University's CIS 393: Web Technologies & Systems course.
 The project's broad goal was to make a website using HTML, CSS, JS, and implementing a database through either MySQL or MongoDB. The actual subject of the site could be chosen freely as long as implementation met the criteria.
